@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ```sh
-streamlit run Final_Strealit.py
+streamlit run Final_Streamlit.py
 
 ```
 
